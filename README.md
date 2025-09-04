@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ravn2706@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16waCLjmPi5YOjZcTY9HKYijP2kdq-Xnf/view?usp=drive_link](https://drive.google.com/file/d/16waCLjmPi5YOjZcTY9HKYijP2kdq-Xnf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16waCLjmPi5YOjZcTY9HKYijP2kdq-Xnf/view?usp=drive_link](https://drive.google.com/file/d/1UxfXU3gQaRH5RMM4gSfelfi-zkbjdIBb/view?usp=sharing)
 
 - ⚡ Fun fact **My first open-source PR felt like submitting an exam I actually enjoyed.**
 
